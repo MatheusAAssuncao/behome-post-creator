@@ -1,0 +1,177 @@
+[
+    {
+        "tema": "Filosofia (Aplicada e Provocativa)",
+        "topicos": [
+            {
+                "conteudo": "O Estoicismo de Escritório: Como os ensinamentos de Sêneca e Marco Aurélio sobre focar apenas no que podemos controlar ajudam a lidar com o estresse corporativo.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O Paradoxo da Escolha no Século XXI: Como o excesso de opções modernas (na carreira, no streaming, na vida) está nos deixando mais ansiosos e menos satisfeitos.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Dilemas Éticos da Tecnologia: Uma reflexão simples sobre até que ponto devemos automatizar decisões humanas (ligando filosofia com IA).",
+                "already_posted": false
+            },
+            {
+                "conteudo": "A \"Sociedade do Cansaço\" de Byung-Chul Han: Uma análise sobre como a autocobrança por performance virou a grande vilã da nossa era.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O que Platão diria sobre as Redes Sociais?: O mito da caverna adaptado para o feed de notícias e as bolhas de informação que criamos.",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Produtividade no Trabalho",
+        "topicos": [
+            {
+                "conteudo": "A Morte do \"Multitasking\": Por que fazer várias coisas ao mesmo tempo está destruindo seu foco e como o Deep Work (trabalho focado) pode salvar seu dia.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Micro-hábitos, Grandes Resultados: Como pequenas mudanças de 5 minutos na rotina matinal mudam o ritmo de um dia inteiro de trabalho.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "A Regra dos 2 Minutos para Vencer a Procrastinação: Se leva menos de dois minutos para fazer, faça agora. Como aplicar isso na caixa de e-mails e tarefas rápidas.",
+                "already_posted": true
+            },
+            {
+                "conteudo": "Gestão de Energia vs. Gestão de Tempo: Por que o seu cronograma perfeito falha se você estiver mentalmente exausto, e como mapear seus picos de energia.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Como Dizer \"Não\" no Trabalho sem Parecer Grosso: Scripts e técnicas de comunicação assertiva para proteger seu tempo e suas entregas principais.",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Astronomia (Curiosidades Espaciais)",
+        "topicos": [
+            {
+                "conteudo": "O que o Telescópio James Webb nos Revelou Recentemente?: Um resumo visual e simples das fotos mais impressionantes ou das descobertas sobre o início do universo.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O Turismo Espacial já é uma Realidade?: Quem são as empresas que estão liderando isso e quando essa experiência vai deixar de ser exclusividade de bilionários.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "A Corrida para Marte: Quais são os maiores desafios científicos que ainda nos separam de colonizar o planeta vermelho?",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O Fenômeno do Lixo Espacial: O perigo silencioso dos milhares de satélites desativados na órbita da Terra e como a ciência está tentando \"limpar\" o céu.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Exoplanetas e a Busca por Vida: Como os astrônomos conseguem identificar planetas parecidos com a Terra a anos-luz de distância e o que falta para acharmos água neles.",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Restauração Típica (Gastronomia Local e de Países)",
+        "topicos": [
+            {
+                "conteudo": "A Rota da Verdadeira Pizza Napolitana: O que faz uma pizza ser considerada \"autêntica\" segundo as regras rígidas da Itália (ingredientes, forno e tempo).",
+                "already_posted": true
+            },
+            {
+                "conteudo": "Comida de Rua (Street Food) que Vale uma Viagem: Uma lista dos pratos de rua mais icônicos do mundo, como os mercados de Bangkok ou os tacos de calçada no México.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O Segredo dos Temperos na Culinária Indiana: Como a combinação de especiarias (além da pimenta) constrói a identidade cultural de um país.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Restaurantes Centenários: A história de um restaurante local ou internacional que sobreviveu a guerras e gerações mantendo a mesma receita secreta.",
+                "already_posted": true
+            },
+            {
+                "conteudo": "O Conceito de \"Comfort Food\" em Diferentes Culturas: O que é a \"comida que abraça\" no Brasil (ex: arroz, feijão e pastel) versus o equivalente em outros países (como o Ramen no Japão).",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Vida Saudável (Equilíbrio sem Neurose)",
+        "topicos": [
+            {
+                "conteudo": "O Impacto do Sono na Tomada de Decisão: Como uma noite mal dormida afeta sua clareza mental no trabalho e escolhas alimentares no dia seguinte.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Higiene Mental na Era das Telas: Estratégias práticas para fazer um \"detox digital\" no final de semana sem se isolar do mundo.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Nutrição Eficiente para Quem Não Tem Tempo: Dicas de marmitas inteligentes (meal prep) para garantir uma alimentação limpa mesmo em semanas caóticas.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Movimento é Remédio (Mesmo Fora da Academia): Como quebrar o sedentarismo de quem passa 8 horas sentado no escritório com pequenos estímulos ao longo do dia.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Mindful Eating (Comer com Atenção Plena): Por que almoçar respondendo mensagens ou olhando para o computador impede que você se sinta saciado.",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Novidades da Tecnologia",
+        "topicos": [
+            {
+                "conteudo": "A Evolução dos Dispositivos Vestíveis (Wearables): Como anéis inteligentes e novos relógios estão monitorando nossa saúde de forma invisível e hiperprecisa.",
+                "already_posted": true
+            },
+            {
+                "conteudo": "O Fim das Senhas Tradicionais?: Como a tecnologia de Passkeys (biometria e reconhecimento facial) está mudando a segurança digital de vez.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Telas Dobráveis e Enrolláveis: A nova geração de smartphones e notebooks que mudam de tamanho e o que isso altera na nossa experiência de uso.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "A Revolução do Carregamento Sem Fio à Distância: Tecnologias que prometem carregar seus dispositivos apenas por você entrar em uma sala, sem precisar de bases físicas.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Cidades Inteligentes (Smart Cities): Exemplos práticos de cidades pelo mundo que já usam sensores urbanos para otimizar o trânsito e a coleta de lixo em tempo real.",
+                "already_posted": false
+            }
+        ]
+    },
+    {
+        "tema": "Inteligência Artificial (IA)",
+        "topicos": [
+            {
+                "conteudo": "IA Generativa além do Texto: Como ferramentas de criação de vídeo e voz hiper-realistas estão transformando o mercado de marketing e entretenimento.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Agentes de IA Autónomos: O que são os assistentes que não apenas respondem perguntas, mas conseguem executar tarefas complexas sozinhos (como agendar viagens inteiras).",
+                "already_posted": false
+            },
+            {
+                "conteudo": "Como a IA Está Acelerando a Medicina: O papel dos algoritmos na descoberta de novos medicamentos e no diagnóstico precoce de doenças graves.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "A Sobrevivência Profissional na Era da IA: Quais habilidades humanas (as chamadas soft skills) se tornaram impossíveis de serem replicadas por máquinas.",
+                "already_posted": false
+            },
+            {
+                "conteudo": "O Combate às Deepfakes: Como o mercado de cibersegurança está se armando para identificar o que é real e o que é gerado por IA na internet.",
+                "already_posted": false
+            }
+        ]
+    }
+]
