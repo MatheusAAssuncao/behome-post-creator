@@ -38,7 +38,7 @@ class PostCreator
             );
 
             // 3. Busca imagem no Pexels
-            $imagem = $this->pexelsService->buscarImagem($topico['tema']);
+            $imagem = $this->pexelsService->buscarImagem($topico['image_prompt']);
 
             // 4. Exibe resultados
             $this->exibirResultados($topico, $textoGerado, $imagem);
@@ -71,7 +71,8 @@ class PostCreator
                         'tema' => $tema['tema'],
                         'conteudo' => $topico['conteudo'],
                         'indice_tema' => $indiceTema,
-                        'indice_topico' => $indiceTopico
+                        'indice_topico' => $indiceTopico,
+                        'image_prompt' => $topico['image_prompt']
                     ];
                 }
             }
